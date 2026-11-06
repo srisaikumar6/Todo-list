@@ -2,6 +2,8 @@
 
 A calm, responsive task list with completion filters, remove/clear actions, and automatic browser storage.
 
+<img src="screenshot.png" alt="Daylight To-do List website preview" width="720">
+
 ## Features
 
 - Add, complete, filter, and remove tasks
